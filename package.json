@@ -1,0 +1,30 @@
+{
+  "name": "hive",
+  "version": "0.1.0",
+  "description": "A CI/CD platform built on Docker, written in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeliex/Hive.git"
+  },
+  "keywords": [
+    "ci",
+    "cd",
+    "travis",
+    "jenkins"
+  ],
+  "author": "yeliex <yeliex@yeliex.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeliex/Hive/issues"
+  },
+  "homepage": "https://github.com/yeliex/Hive#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.21",
+    "lerna": "^3.10.7",
+    "typescript": "^3.3.1"
+  }
+}
